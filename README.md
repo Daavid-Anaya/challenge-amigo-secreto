@@ -1,4 +1,4 @@
-# challenge amigo secreto
+# Challenge Amigo Secreto Oracle Next Education (ONE)
 Con este desafío se busca poner en práctica conceptos fundamentales de lógica de programación como variables, condicionales, funciones, listas, arrays y lazos de repetición; estos conceptos constituyen la base de cualquier lenguaje de programación, independientemente de su complejidad.
 
 ### 💡 Sobre el Desafío 💡
